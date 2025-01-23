@@ -1,6 +1,6 @@
 # Privacy Policy for BalancePoint
 
-Last updated: [Current Date]
+Last updated: [23/01/2025]
 
 ## Introduction
 BalancePoint ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application (BalancePoint).
